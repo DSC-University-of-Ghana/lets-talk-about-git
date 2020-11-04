@@ -1,8 +1,8 @@
 # lets-talk-about-git
 An introductory git session for the developer
 
-#Install
+Install git --- 
 bit.ly/installgit
 
-#Create A Github Account
+Create A Github Account ---
 https://github.com

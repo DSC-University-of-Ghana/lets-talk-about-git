@@ -2,7 +2,7 @@
 An introductory git session for the developer
 
 Install git --- 
-bit.ly/installgit
+https://bit.ly/installgit
 
 Create A Github Account ---
 https://github.com
